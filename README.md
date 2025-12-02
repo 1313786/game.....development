@@ -66,7 +66,7 @@ Step 5: Play the picture.
 
 ## OUTPUT:
 
-https://github.com/user-attachments/assets/9b9b308a-58e8-49f7-a7ab-c0f60efa711e
+https://github.com/user-attachments/assets/bf7b5659-75cf-408b-8e75-dd0fb29339f9
 
 
 ## RESULT:
